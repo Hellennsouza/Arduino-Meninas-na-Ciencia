@@ -1,4 +1,3 @@
-<img width="1080" height="572" alt="WhatsApp Image 2026-08-30 at 00 14 00" src="https://github.com/user-attachments/assets/196c9d78-67bc-4e13-a30a-5a030a3da356" />
 
 Projeto de extensão (Bolsista CNPq) focado no ensino de robótica e programação (C/C++) para alunas da rede pública estadual em Barreiras - BA.
 
