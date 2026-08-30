@@ -29,8 +29,6 @@ Minhas principais responsabilidades incluíam:
   
   <img src="https://github.com/user-attachments/assets/90d033ce-4414-4a01-b080-6c1481eeecba" width="400" />
   
-  <img scr="https://github.com/user-attachments/assets/bbb2400d-6616-4f45-a08d-e37dd982b413" width="400" />
-  
   <img src="https://github.com/user-attachments/assets/4c6b3b1e-d942-443e-b1b8-bf093d9fd7fa" width="400" />
   
   <img src="https://github.com/user-attachments/assets/9683ef45-1c30-42f0-8721-0dd97ba3c5b4" width="400" />
