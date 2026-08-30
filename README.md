@@ -1,3 +1,4 @@
+<img width="1080" height="572" alt="WhatsApp Image 2026-08-30 at 00 14 00" src="https://github.com/user-attachments/assets/196c9d78-67bc-4e13-a30a-5a030a3da356" />
 
 Projeto de extensão (Bolsista CNPq) focado no ensino de robótica e programação (C/C++) para alunas da rede pública estadual em Barreiras - BA.
 
@@ -24,6 +25,7 @@ Minhas principais responsabilidades incluíam:
 
 ## 📸 Galeria do Projeto
 
+<img width="1080" height="572" alt="WhatsApp Image 2026-08-30 at 00 14 00" src="https://github.com/user-attachments/assets/d2b30770-c999-471a-8495-e87dd7741fa5" />
 <img width="1080" height="559" alt="WhatsApp Image 2026-08-30 at 00 09 49" src="https://github.com/user-attachments/assets/c32b28fd-541e-4ec4-847e-fffb88f38afd" />
 <img width="1080" height="565" alt="WhatsApp Image 2026-08-30 at 00 09 24" src="https://github.com/user-attachments/assets/90d033ce-4414-4a01-b080-6c1481eeecba" />
 <img width="1080" height="558" alt="WhatsApp Image 2026-08-30 at 00 09 11" src="https://github.com/user-attachments/assets/e1b4cf3c-497b-4bd0-ba4e-cdb5dcd121a6" />
