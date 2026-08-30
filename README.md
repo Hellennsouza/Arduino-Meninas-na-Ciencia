@@ -22,3 +22,16 @@ Minhas principais responsabilidades incluíam:
 * **Software/Linguagem:** C/C++ (Lógica de programação, laços de repetição, condicionais).
 * **Soft Skills:** Liderança, Comunicação assertiva, Mentoria, Resolução de Problemas e Capacidade de Adaptação.
 
+## 📸 Galeria do Projeto
+<p align="center">
+  
+  <img src="https://github.com/user-attachments/assets/d2b30770-c999-471a-8495-e87dd7741fa5" width="400" />
+  <img src="https://github.com/user-attachments/assets/90d033ce-4414-4a01-b080-6c1481eeecba" width="400" />
+  <img src="https://github.com/user-attachments/assets/e1b4cf3c-497b-4bd0-ba4e-cdb5dcd121a6" width="400" />
+  <img scr="https://github.com/user-attachments/assets/bbb2400d-6616-4f45-a08d-e37dd982b413" width="400" />
+  <img src="https://github.com/user-attachments/assets/4c6b3b1e-d942-443e-b1b8-bf093d9fd7fa" width="400" />
+  <img src="https://github.com/user-attachments/assets/9683ef45-1c30-42f0-8721-0dd97ba3c5b4" width="400" />
+  <img src="https://github.com/user-attachments/assets/e8ff103a-75b8-427a-89b3-8c5aba07ff43" width="400" />
+  <img src="https://github.com/user-attachments/assets/40949635-1f52-494d-8e75-41357763d999" width="400" />
+  <img src="https://github.com/user-attachments/assets/4a395573-462a-4bbc-a0d5-2883830707c2" width="400" />
+
