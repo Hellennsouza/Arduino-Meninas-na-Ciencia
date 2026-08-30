@@ -40,4 +40,20 @@ Minhas principais responsabilidades incluíam:
   <img src="https://github.com/user-attachments/assets/40949635-1f52-494d-8e75-41357763d999" width="400" />
 
   <img src="https://github.com/user-attachments/assets/4a395573-462a-4bbc-a0d5-2883830707c2" width="400" />
+  
+  <img src="https://github.com/user-attachments/assets/8f730ca4-d0fc-44b5-b157-761e300e0097" width="400" />
+
+  <img src="https://github.com/user-attachments/assets/53f52cb1-6734-4898-8431-0bb27c044cf8" width="400" />
+
+  <img src="https://github.com/user-attachments/assets/436ce212-fd7a-4e4b-9bbd-324ecaf12e0c" width="400" />
+  
+  <img src="https://github.com/user-attachments/assets/0a7c1706-012c-4f4b-9cc9-848add2201a4" width="400" />
+
+  <img src="https://github.com/user-attachments/assets/89ed8053-e1a5-4d2c-952b-01090afe3c99" width="400" />
+
+  
+
+
+
+
 
