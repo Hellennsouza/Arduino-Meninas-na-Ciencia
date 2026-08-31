@@ -3,7 +3,7 @@ Projeto de extensão (Bolsista CNPq) focado no ensino de robótica e programaç�
 
 # 👩‍🔬 Projeto: Arduino Meninas na Ciência
 
-Este repositório documenta a minha atuação no projeto de extensão **Arduino Meninas na Ciência**, desenvolvido na Universidade Federal do Oeste da Bahia (UFOB). Fui selecionada como **Bolsista pelo CNPq** para atuar diretamente na democratização do acesso à tecnologia e no incentivo à presença feminina nas áreas de exatas (STEM).
+Este repositório documenta a minha atuação no projeto de extensão **Arduino Meninas na Ciência**, desenvolvido na Universidade Federal do Oeste da Bahia (UFOB). Fui selecionada como **Bolsista pelo CNPq** para atuar diretamente na democratização do acesso à tecnologia e no incentivo à presença feminina nas áreas de exatas.
 
 ## 🎯 O Objetivo
 O projeto visa introduzir conceitos de robótica, eletrônica e lógica de programação para meninas e jovens mulheres, desmistificando a área de tecnologia e criando um ambiente de aprendizado inclusivo e encorajador.
